@@ -1,5 +1,5 @@
 ## Python and mathematics in first year of Engineering bachelor degree.
 
-In this repository, we will give you examples and template files to use the Python language for the mathematics.
+In this repository, we will give you examples and template files to use the Python language in the field of mathematics.
 
-You will use Python to help your learning of mathematics during this first-year bachelor degree.
+You will use Python to help your learning of mathematics during this first-year of bachelor degree.
