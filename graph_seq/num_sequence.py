@@ -6,39 +6,28 @@
 import numpy as np # https://numpy.org/
 import matplotlib.pyplot as plt  # https://matplotlib.org/
 
-# Here is the function to compute each element of the sequence
+# Here is the function for evaluating each element of the sequence
 def my_function(n):
     return (n**2-25)/(2*n**2+1) 
 
 # Some parameters we need *****************************************************
-plot_title="a_n=(n^2-25)/(2n^2+1)]" # Latex formated graphic name
+plot_title="a_n=\\frac{n^2-25}{2n^2+1}" # Latex formated graphic name
 
-# boundaries used to compute values of the sequence
-low_bnd=4
-high_bnd=100
+# maximum value of the index
+max_index=22
 
-delta=1 # calculation step
-
-disp_range = high_bnd-low_bnd #the range we will display 
-niter = int(disp_range/delta)+1 # number of points to compute
-                                # +1 to include high boundary
-
-
-# Vector allocation, index from 0 to niter ***********************************
-abscissa=np.zeros(niter) # x values are stored here (= horizontal coordinate)
-ordinate=np.zeros(niter) # corresponding y(x) values are here (= vertical coordinate)
+# Vector allocation ***********************************************************
+abscissa=np.zeros(max_index+1) # x values are stored here (= horizontal coordinate)
+ordinate=np.zeros(max_index+1) # corresponding y(x) values are here (= vertical coordinate)
 
 # Filling vectors *************************************************************
-# To begin, initialise the first element.
-abscissa[0]=low_bnd
-
-# Then compute all elements
-for i in range(1,niter):
-    abscissa[i]=abscissa[i-1] + delta # compute ith abscissa from preceding one
+for i in range(max_index+1):
+    abscissa[i]= i # compute ith abscissa from preceding one
                                       
-for i in range(niter):
-    ordinate[i]=my_function(abscissa[i]) # function value at i position
+for i in range(max_index+1):
+    ordinate[i]=my_function(i) # function value at i position
 
+# Note : add 1 to max_index to include max_index element (0,1,2...max_index)
 
 # Prepare and display the sequence values *************************************
 
