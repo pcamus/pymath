@@ -6,4 +6,4 @@ Here is the program : [num_funcR.py](num_funcR.py)
 
 And the result :
 
-![](num_fubcR1.jpg)
+![](num_funcR1.jpg)
