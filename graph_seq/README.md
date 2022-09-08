@@ -11,14 +11,13 @@ The Python code is made of 5 parts :
 
 **`numpy`** and **`pyplot`** are imported
 
-
 - Function and variables declaration.
 
 **`def my_function(n):`** this function will be called to comput each element of the sequence
 
 - Vectors allocation.
 
-Use the **`zeros` function from **`numpy`** to allocate vectors filled by 0.
+Use the **`zeros`** function from **`numpy`** to allocate vectors filled by 0.
 
 - Filling of the vector with abscissa and corresponding ordinate values.
 
