@@ -13,15 +13,15 @@ The Python code is made of 5 parts :
 
 - Function and variables declaration.
 
-`**def my_function(n):**` this function will be called to comput each element of the sequence
+**`def my_function(n):`** this function will be called to comput each element of the sequence
 
 - Vectors allocation.
 
-Use the `**zeros**` function from `**numpy**` to allocate vectors filled by 0.
+Use the **`zeros` function from **`numpy`** to allocate vectors filled by 0.
 
 - Filling of the vector with abscissa and corresponding ordinate values.
 
-Two `**for**` loops are used to fill the vectors.
+Two **`for`** loops are used to fill the vectors.
 
 - Plotting initialisation and display.
 
