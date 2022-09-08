@@ -25,7 +25,7 @@ The Python code is made of 5 parts :
 
 - Plotting initialisation and display.
 
-  Plot the graph in memory, then add some "ornaments", the display it on the screen.
+  Plot the graph in memory, then add some "ornaments", then display it on the screen.
 
 \
 The resulting display is :
