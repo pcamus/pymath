@@ -11,7 +11,8 @@ The Python code is made of 5 parts :
 
 **`numpy`** and **`pyplot`** are imported.
 
-\     
+\
+nnn
 - Function and variables declaration.
 
 **`def my_function(n):`** this function will be called to comput each element of the sequence.
