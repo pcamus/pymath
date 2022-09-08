@@ -7,14 +7,13 @@ Here is the program : [num_sequence.py](num_sequence.py)
 
 The Python code is made of 5 parts :
 
-- Module import.
+- Module import.\
 
-**`numpy`** and **`pyplot`** are imported
-  
+**`numpy`** and **`pyplot`** are imported.
   
 - Function and variables declaration.
 
-**`def my_function(n):`** this function will be called to comput each element of the sequence
+**`def my_function(n):`** this function will be called to comput each element of the sequence.
 
 - Vectors allocation.
 
