@@ -2,7 +2,7 @@
 
 A function is described as a list of coordinates stored into vectors.
 
-As in the num_sequence.py program, the Python code is made of 5 parts :
+As in the *num_sequence.py* program, the Python code is made of 5 parts :
 
 - Module import.
 
@@ -13,7 +13,7 @@ As in the num_sequence.py program, the Python code is made of 5 parts :
   **`def my_function(n):`** this function will be called to compute each element of the function.
   Several variables are declared and initialised. 
   
-  Unlike in the num_sequence.py code the abscissa are not natural numbers but real values ranging between two boundaries. The range is **`disp_range = high_bnd-low_bnd`**.
+  Unlike in the *num_sequence.py* code the abscissa are not natural numbers but real values ranging between two boundaries. The range is **`disp_range = high_bnd-low_bnd`**.
   
   The number of elements for abscissa is calculated from the range and the choosen increment between values **`delta`**. This number is **`niter = int(disp_range/delta)+1`**.  
   
