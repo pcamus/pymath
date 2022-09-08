@@ -4,12 +4,12 @@ In this repository, we will give you examples and template files to use the Pyth
 
 You will use Python to help your learning of mathematics during this first-year of bachelor degree.
 
-###Plotting a graph.
+### Plotting a graph.
 
 - [First graphic and sequences](graph_seq).
 - [How to describe and plot a function](graph_funcR).
 
-###Computing limits.
+### Computing limits.
 
 - [Numerical approach](num_limit).
 - [Symbolic approach](sym_limit).
