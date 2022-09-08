@@ -27,6 +27,7 @@ The Python code is made of 5 parts :
 
   Plot the graph in memory, then add some "ornaments", the display it on the screen.
 
+\
 The resulting display is :
 
 ![](num_seq1.jpg)
