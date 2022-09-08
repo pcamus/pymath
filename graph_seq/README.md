@@ -9,9 +9,7 @@ The Python code is made of 5 parts :
 
 - Module import.
 
-**`numpy`** and **`pyplot`** are imported.
-
-\
+  **`numpy`** and **`pyplot`** are imported.
    
 - Function and variables declaration.
 
