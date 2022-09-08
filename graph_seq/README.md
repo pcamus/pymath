@@ -31,3 +31,5 @@ The Python code is made of 5 parts :
 The resulting display is :
 
 ![](num_seq1.jpg)
+
+It's not mandatory to use Latex notation in the graph, but it's nice !  If you want to use Latex you can find the list of symbols on the web, for instance [here](https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf)
