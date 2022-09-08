@@ -13,7 +13,7 @@ The Python code is made of 5 parts :
    
 - Function and variables declaration.
 
-  **`def my_function(n):`** this function will be called to comput each element of the sequence.
+  **`def my_function(n):`** this function will be called to compute each element of the sequence.
 
 - Vectors allocation.
 
