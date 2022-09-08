@@ -10,7 +10,6 @@ The Python code is made of 5 parts :
 - Module import.
 
 **`numpy`** and **`pyplot`** are imported
-
 - Function and variables declaration.
 
 **`def my_function(n):`** this function will be called to comput each element of the sequence
