@@ -8,7 +8,7 @@ You will use Python to help your learning of mathematics during this first-year 
 
 - [First graphic and sequences](graph_seq).
 - [How to describe and plot a function](graph_funcR).
-- **Read this :** [Pitfall](/num_funcR/pitfall.md).
+- **Read this :** [Pitfall](/graph_funcR/pitfall.md).
 
 ### Computing limits.
 
