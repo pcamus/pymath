@@ -1,4 +1,4 @@
-### Computing limits.
+## Computing limits.
 
 In this repository, you will discover how to deal with the limits of sequences and functions.
 
