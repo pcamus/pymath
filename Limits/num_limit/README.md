@@ -16,8 +16,7 @@ The following code is used for the sequence : [numlim.py](num_lim.py) and gives 
 
 Limit approximation from 100 to 10000, step = 500
 
-Limit = 0.4987250637
-
+Limit = 0.4987250637\
 Limit = 0.4999645834
 
 Limit = 0.4999894628
