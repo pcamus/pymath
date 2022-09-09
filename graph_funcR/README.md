@@ -30,6 +30,6 @@ As in the *num_sequence.py* program, the Python code is made of 5 parts :
   Plot the graph in memory, then add some "ornaments", then display it on the screen.
 Here is the program : [num_funcR.py](num_funcR.py)
 
-And the result :
+And the result for a = 20 and f = 50 :
 
 ![](num_funcR1.jpg)
