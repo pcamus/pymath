@@ -11,6 +11,6 @@ You will use Python to help your learning of mathematics during this first-year 
 
 ### Computing limits.
 
-- [Numerical approach](num_limit).
-- [Symbolic approach](sym_limit).
+- [Numerical & symbolic approach](Limits).
+
 
