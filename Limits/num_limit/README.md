@@ -12,3 +12,26 @@ We can see that the first one seems to converge toward 0.5 and the second one to
 
 Another method constists in listing the values of the sequence or function when we tend to the limit. It means in our two exwmple when the variable gets bigger and bigger.
 
+The following code is used for the sequence : [numlim.py](num_lim.py) and gives :
+
+Limit approximation from 100 to 10000, step = 500
+Limit = 0.4987250637
+Limit = 0.4999645834
+Limit = 0.4999894628
+Limit = 0.4999950195
+Limit = 0.4999971088
+Limit = 0.4999981139
+Limit = 0.4999986733
+Limit = 0.4999990162
+Limit = 0.4999992415
+Limit = 0.4999993974
+Limit = 0.4999995098
+Limit = 0.4999995934
+Limit = 0.4999996574
+Limit = 0.4999997073
+Limit = 0.4999997471
+Limit = 0.4999997793
+Limit = 0.4999998057
+Limit = 0.4999998276
+Limit = 0.4999998460
+Limit = 0.4999998617
