@@ -22,7 +22,7 @@ After importing the sympy module and initialising the "pretty printer", each exa
   
   The **`pprint()`** instruction meaning *pretty print* is used to display the more readable mathematical expression using several lines and special characters.
   
-  The result is: 
+  The result onthe Thonny console is: 
   
   ![](pprint_result.jpg)
   
