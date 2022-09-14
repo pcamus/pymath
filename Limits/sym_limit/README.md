@@ -6,7 +6,7 @@ The [sym_lim.py](sym_lim.py) program uses the previous examples in one program :
 
 After importing the sympy module and initializing the pretty printer, each example is made of 3 parts:
 
-- Symbol creation. Each symbol is optionally followed by [assumptions](https://docs.sympy.org/latest/guides/assumptions.html). Assumption means a restriction on the allowed value of the symbol (real, positive...). 
+- Symbol creation. Each symbol is optionally followed by [assumptions](https://docs.sympy.org/latest/guides/assumptions.html). An assumption means a restriction on the allowed value of the symbol (real, positive...). 
  
   **`n = sp.Symbol('n', real=True)`**
   
@@ -19,6 +19,12 @@ After importing the sympy module and initializing the pretty printer, each examp
   **`sp.limit(expr1,n,sp.oo)`**  *This computes the symbolic limit of expr1 for n at infinity*
   
   **`sp.oo`** (2 lowercase "o") means infinity.
+  
+  The **`pprint()`** instruction meaning *pretty print* is used to display the more readeable mathematical expression using several lines and special characters.
+  
+  The result is : 
+  
+  ![](pprint_result.jpg)
   
   
   
