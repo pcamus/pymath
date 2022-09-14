@@ -8,7 +8,7 @@ Here is the result for the sequence and the function we already have described. 
 *The num_sequence.py (see plotting a graph) is used here, slightly modified in adding a low boundary (4 in the example).*
 
 ![](num_funcR2.jpg)
-*The num_funcR.py (see plotting a graph) is used for this plot.*
+  *The num_funcR.py (see plotting a graph) is used for this plot.*
 
 \
 We can see that the first one seems to converge toward **0.5** and the second one toward **0** (a = 20, f = 50).
