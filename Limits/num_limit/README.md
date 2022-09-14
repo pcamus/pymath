@@ -6,6 +6,8 @@ Here is the result for the sequence and the function we already have described. 
 
 ![](num_seq2.jpg)
 
+*The num_sequence.py is slightly modified in adding a low boundary (4 in the example)*
+
 ![](num_funcR2.jpg)
 
 We can see that the first one seems to converge toward **0.5** and the second one toward **0** (a = 20, f = 50).
