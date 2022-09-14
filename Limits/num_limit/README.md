@@ -12,6 +12,7 @@ Here is the result for the sequence and the function we already have described. 
 
 *The num_funcR.py (see plotting a graph) is used for this plot.*
 
+\
 We can see that the first one seems to converge toward **0.5** and the second one toward **0** (a = 20, f = 50).
 
 Another method consists in listing the values of the sequence or function when we tend to the limit. It means, in our two examples, that the variable gets bigger and bigger.
