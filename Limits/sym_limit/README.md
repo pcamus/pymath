@@ -4,13 +4,13 @@ This method uses the **`sympy`** module to do a symbolic computation of the limi
 
 The [sym_lim.py](sym_lim.py) program uses the previous examples in one program : sequence $\frac{n^2-25}{2n^2+1}$ and function $e^{-a.t}.cos(2.\\pi.f.t)$.
 
-After importing the sympy module and initializing the pretty printer, each example is made of 3 parts:
+After importing the sympy module and initialising the "pretty printer", each example is made of 3 parts:
 
 - Symbol creation. Each symbol is optionally followed by [assumptions](https://docs.sympy.org/latest/guides/assumptions.html). An assumption means a restriction on the allowed value of the symbol (real, positive...). 
  
   **`n = sp.Symbol('n', real=True)`**
   
-- Expression contruction followed by displaying the expression (for a check) with **`pprint()`**
+- Expression construction followed by displaying the expression (for a check) with **`pprint()`**
  
   **`expr1=(n**2-25)/(2*n**2+1)`**  
 
@@ -20,11 +20,9 @@ After importing the sympy module and initializing the pretty printer, each examp
   
   **`sp.oo`** (2 lowercase "o") means infinity.
   
-  The **`pprint()`** instruction meaning *pretty print* is used to display the more readeable mathematical expression using several lines and special characters.
+  The **`pprint()`** instruction meaning *pretty print* is used to display the more readable mathematical expression using several lines and special characters.
   
-  The result is : 
+  The result is: 
   
   ![](pprint_result.jpg)
-  
-  
   
