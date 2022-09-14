@@ -1,6 +1,6 @@
 ### Numerical approach.
 
-The first method we can use, is to look at the graph to get an idea of how the sequence or function behaves when they approach the limit. 
+The first method we can use is to look at the graph to get an idea of how the sequence or function behaves when they approach the limit. 
 
 Here is the result for the sequence and the function we already have described. The limit of interest is infinity.
 
@@ -10,7 +10,7 @@ Here is the result for the sequence and the function we already have described. 
 
 We can see that the first one seems to converge toward **0.5** and the second one toward **0** (a = 20, f = 50).
 
-Another method constists in listing the values of the sequence or function when we tend to the limit. It means in our two exwmple when the variable gets bigger and bigger.
+Another method consists in listing the values of the sequence or function when we tend to the limit. It means, in our two examples, that the variable gets bigger and bigger.
 
 The following code is used for the sequence : [num_limit.py](num_limit.py) and gives :
 
@@ -36,3 +36,7 @@ Limit = 0.4999998057\
 Limit = 0.4999998276\
 Limit = 0.4999998460\
 Limit = 0.4999998617
+
+Both methods are simple approach to "see" how the function behave near a given value. But you must be careful in using this metho, especially when the function is not defined everywhere...
+
+A more reliable method consists in a symbolic processing of the function at the limit. It could be done by hand or using a symbolic module like **`sympy`**.
