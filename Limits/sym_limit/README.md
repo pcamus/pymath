@@ -2,7 +2,7 @@
 
 This method uses the **`sympy`** module to do a symbolic computation of the limit. The documentation can be found [here](https://docs.sympy.org/latest/index.html).
 
-The [sym_lim.py](sym_lim.py) program uses the previous examples in one program : sequence $\frac{n^2-25}{2n^2+1}$ and function $e^{-a.t}.cos(2.\\pi.f.t)$.
+The [sym_lim.py](sym_lim.py) program uses the previous examples in one program : sequence $\frac{n^2-25}{2n^2+1}$ and function $e^{-a.t}.cos(2.\pi.f.t)$.
 
 After importing the sympy module and initialising the "pretty printer", each example is made of 3 parts:
 
