@@ -1,4 +1,4 @@
-# Fichier num_sequence.py
+# File num_sequence.py
 # Computes and displays an indexed sequence of value  
 # philippe.camus@hepl.be
 # 6/9/2022
