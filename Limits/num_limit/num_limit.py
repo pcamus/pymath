@@ -1,4 +1,4 @@
-# Fichier num_limit.py
+# File num_limit.py
 # Try to find limits with a gradual approach 
 # philippe.camus@hepl.be
 # 8/9/2022
