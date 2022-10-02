@@ -1,4 +1,4 @@
-# Fichier sym_lim.py
+# File sym_lim.py
 # Symbolic computation of a limit for a sequence and for a function.
 # There is no difference for the symbolic computation.
 # For information about limits : https://docs.sympy.org/latest/tutorials/intro-tutorial/calculus.html#limits
