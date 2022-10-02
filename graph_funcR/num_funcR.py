@@ -1,4 +1,4 @@
-# Fichier num_funcR.py
+# File num_funcR.py
 # Computes and displays a real-valued function in a defined range  
 # philippe.camus@hepl.be
 # 6/9/2022
