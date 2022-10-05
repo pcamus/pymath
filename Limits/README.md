@@ -8,3 +8,4 @@ In the second part you will start using the [sympy](https://docs.sympy.org/lates
 
 - [Numerical approach](num_limit).
 - [Symbolic approach](sym_limit).
+- [Bridoux exercices](Bridoux).
