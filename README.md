@@ -14,4 +14,6 @@ You will use Python to help your learning of mathematics during this first-year 
 
 - [Numerical & symbolic approach](Limits).
 
+### Computing derivatives.
 
+- [Numerical & symbolic approach](derivatives).
