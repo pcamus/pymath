@@ -6,7 +6,7 @@ Derivative of f(x) -> $(\frac{df(x)}{dx})_{x=a}$ $=lim_{h->0}\frac{f(a+h)-f(a)}{
 
 $(\frac{df(x)}{dx})_{x=a}$
 
-$=lim_{h->0}\frac{f(a+h)-f(a)}{h}$
+$=lim_{h->0} \frac{f(a+h)-f(a)}{h}$
 
 $h=\frac{R.T}{\mu.g}ln(\frac{p}{p_0})$
  
