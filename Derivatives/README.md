@@ -1,4 +1,4 @@
-## Working with derivative.
+## Working with derivatives.
 
 The derivative of a function at a point indicates how the function varies near that point.
 
