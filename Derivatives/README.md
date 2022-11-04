@@ -2,14 +2,8 @@
 
 The derivative of a function f(x) at a point indicates how the function varies near that point.
 
-Derivative of f(x) -> $(\frac{df(x)}{dx})_{x=a}$ $=lim_{h->0}\frac{f(a+h)-f(a)}{h}$
+Derivative of f(x) -> $\displaystyle\left(\frac{df(x)}{dx}\right)\_{x=a}=lim_{h->0}\left(\frac{f(a+h)-f(a)}{h}\right)$
 
-$\displaystyle\left(\frac{df(x)}{dx}\right)\_{x=a}=lim_{h->0}\left(\frac{f(a+h)-f(a)}{h}\right)$
-
-$=lim_{h->0} \frac{f(a+h)-f(a)}{h}$
-
-$h=\frac{R.T}{\mu.g}ln(\frac{p}{p_0})$
- 
 The derivative only exists if the limit exists.
 
 With a physical function depending on time, the derivative is the speed of variation of the physiqcal quantity associated with the function near the evaluation point.
