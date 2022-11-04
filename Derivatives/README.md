@@ -4,7 +4,7 @@ The derivative of a function f(x) at a point indicates how the function varies n
 
 Derivative of f(x) -> $(\frac{df(x)}{dx})_{x=a}$ $=lim_{h->0}\frac{f(a+h)-f(a)}{h}$
 
-$\left(\frac{df(x)}{dx}\right)a=lim_{h->0}\frac{f(a+h)-f(a)}{h}$
+$\left(\frac{df(x)}{dx}\right)_a=lim_{h->0}\frac{f(a+h)-f(a)}{h}$
 
 $=lim_{h->0} \frac{f(a+h)-f(a)}{h}$
 
