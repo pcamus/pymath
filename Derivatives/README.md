@@ -6,11 +6,11 @@ Definition of derivative of f(x) at the 'a' point -> $\displaystyle\left(\frac{d
 
 The derivative only exists if the limit exists.
 
-With a physical function depending on time, the derivative is the speed of variation of the physiqcal quantity associated with the function near the evaluation point.
+With a physical function depending on time, the derivative is the speed of variation of the physical quantity associated with the function near the evaluation point.
 
 With a function depending on coordinates, it gives the slope near the evaluation point.
 
-If we calculate the derivative of a function f at a point x, we obtain the derivative function of f, ie a symbolic expression of the derivative valid for all the points where the derivative exists.
+If we calculate the derivative of a function f(x) at a point x, we obtain the derivative function of f(x), ie a symbolic expression of the derivative valid for all the points where the derivative exists.
 
 - [Finite difference error](err_der_geo.py).
 - [Symbolic approach](der_sympy.py).
