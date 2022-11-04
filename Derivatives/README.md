@@ -2,7 +2,7 @@
 
 The derivative of a function f(x) at a point indicates how the function varies near that point.
 
-Derivative of f(x) ->  $(\frac{df(x)}{dx})_{x=a}=lim_{h->0} \frac{f(a+h)-f(a)}{h}$
+Derivative of f(x) -> $(\frac{df(x)}{dx})_{x=a}=lim_{h->0}\frac{f(a+h)-f(a)}{h}$
 
 The derivative only exists if the limit exists.
 
