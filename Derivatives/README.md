@@ -10,7 +10,7 @@ With a physical function depending on time, the derivative is the speed of varia
 
 With a function depending on coordinates, it gives the slope near the evaluation point.
 
-If we calculate the derivative of a function f(x) at a point x, we obtain the derivative function of f(x), ie a symbolic expression of the derivative valid for all the points where the derivative exists.
+If we calculate the derivative of a function f(x) at a point x (i.e. any point), we obtain the derivative function of f(x), a symbolic expression of the derivative valid for all the points where the derivative exists.
 
 - [Finite difference error](err_der_geo.py).
 - [Symbolic approach](der_sympy.py).
