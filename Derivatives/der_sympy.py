@@ -1,8 +1,8 @@
-# Fichier : der_sympy.py
+# File : der_sympy.py
 # Symbolic calculus
 # Module sympy (sympy.org)
 # This program can be used as a template
-# to compute symbolically derivatives.
+# to compute derivatives symbolically.
 # philippe.camus@hepl.be
 # 3/11/2022
 
