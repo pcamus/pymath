@@ -9,3 +9,8 @@ In the code the expression for $\displaystyle f(x)=x^2$ derivative finite differ
 x0 is the point where we calculate the derivative, hval[i] the h value for the current step of the loop.
 
 The explanation of the code is very similar to the one in the [graph_seq](https://github.com/pcamus/pymath/tree/main/graph_seq) section.
+
+We use the expression **`hval=np.geomspace(upper_bound, lower_bound, nelem)`** to generate a vector of nelem with values in a [geometric progression](https://en.wikipedia.org/wiki/Geometric_progression). In this way, the h values will change faster than in a linear sequence so we can inspect a broad range of values in a few steps.
+
+We also use the expression **`plt.scatter(  )`** instead of the **`plt.plot(  )`** instruction.
+
