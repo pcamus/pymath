@@ -4,7 +4,7 @@ The [der_sympy.py](der_sympy.py) will show you how to use symbolic calculation f
 
 This program can be use as a template for your symbolic derivative calculations.
 
-Part of the code is dedicated to abetter presentaton of the formulas and are not mandatory.
+Parts of the code are dedicated to a better presentaton of the formulas and are not mandatory. A simple print will also give a readable output (but no so pretty).
 
 The core of the code is:
 
