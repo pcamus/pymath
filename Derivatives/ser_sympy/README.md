@@ -1,2 +1,0 @@
-## Symbolic calculation of derivatives.
-
