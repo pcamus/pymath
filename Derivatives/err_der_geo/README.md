@@ -2,7 +2,7 @@
 
 The finite difference approximation consists in replacing the correct expression of the derivative using a $\displaystyle\lim_{h \to 0}$ by an expression with a small, finite value for h.
 
-The code [err_der_geo.py](err_der_geo.py) shows how finite differences behave with the size of h. We try several values of h ranging from 1 to $10^{-20}$ and we compare the results with the correct value of the derivative in 1 with the realtive error formula: **`error=abs((der_num-exact_val)/exact_val)`**.
+The code [err_der_geo.py](err_der_geo.py) shows how finite differences behave with the size of h. We try several values of h ranging from 1 to $10^{-20}$ and we compare the results with the correct value of the derivative in 1 with the relative error formula: **`error=abs((der_num-exact_val)/exact_val)`**.
 
 In the code, the expression for $\displaystyle f(x)=x^2$ derivative finite difference approximation is: **`((x0+hval[i])**2-(x0)**2)/hval[i]`**
 
@@ -15,4 +15,3 @@ We use the expression **`hval=np.geomspace(upper_bound, lower_bound, nelem)`** t
 We also use the **`plt.scatter(  )`** instruction instead of the **`plt.plot(  )`** instruction.
 
 Notice what happen when h is very small. It is due to the fact that real numbers are approximated in Python with the float type ([IEEE-754 double precision format](https://docs.python.org/3/tutorial/floatingpoint.html)).
-
