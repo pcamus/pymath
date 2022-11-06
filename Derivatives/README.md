@@ -13,4 +13,4 @@ With a function depending on coordinates, it gives the slope near the evaluation
 If we calculate the derivative of a function f(x) at a point x (i.e. any point), we obtain the derivative function of f(x), a symbolic expression of the derivative valid for all the points where the derivative exists.
 
 - [Finite difference error](err_der_geo).
-- [Symbolic approach](der_sympy.py).
+- [Symbolic approach](der_sympy).
