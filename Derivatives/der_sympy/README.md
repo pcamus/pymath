@@ -10,6 +10,6 @@ The core of the code is:
 
 **`x = sp.Symbol('x')`** reserve a symbol named 'x' with no constraints.
 
-**`expr=sp.sin(x**4 + 2)/4`** construct the expression to derivate.
+**`expr=sp.sin(x**4 + 2)/4`** construct the expression to derivate, ie the function $\displaystyle\frac{sinx^4+2)}{4}$ in our example.
 
 **`result=sp.diff(expr,x)`** compute the symbolic derivative.
