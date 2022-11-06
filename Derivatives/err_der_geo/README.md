@@ -6,7 +6,7 @@ The code [err_der_geo.py](err_der_geo.py) shows how finite differences behave wi
 
 In the code the expression for $\displaystyle f(x)=x^2$ derivative finite difference approximation is: **`((x0+hval[i])**2-(x0)**2)/hval[i]`**
 
-x0 is the point where we calculate the derivative (1 in this example), hval[i] the h value for the current step of the loop.
+**`x0`** is the point where we calculate the derivative (1 in this example), **`hval[i]`** the h value for the current step of the loop.
 
 The explanation of the code is very similar to the one in the [graph_seq](https://github.com/pcamus/pymath/tree/main/graph_seq) section.
 
@@ -14,5 +14,5 @@ We use the expression **`hval=np.geomspace(upper_bound, lower_bound, nelem)`** t
 
 We also use the **`plt.scatter(  )`** instruction instead of the **`plt.plot(  )`** instruction.
 
-Notice what happen when h is very small. It is due to the fact that real numbers are approximated in Python with the float type [IEEE-754 double precision format](https://docs.python.org/3/tutorial/floatingpoint.html).
+Notice what happen when h is very small. It is due to the fact that real numbers are approximated in Python with the float type ([IEEE-754 double precision format](https://docs.python.org/3/tutorial/floatingpoint.html)).
 
