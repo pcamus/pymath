@@ -14,4 +14,4 @@ We use the expression **`hval=np.geomspace(upper_bound, lower_bound, nelem)`** t
 
 We also use the **`plt.scatter(  )`** instruction instead of the **`plt.plot(  )`** instruction.
 
-Notice what happen when h is very small. It is due to the fact that real numbers are approximated in Python with the float type ([IEEE-754 double precision format](https://docs.python.org/3/tutorial/floatingpoint.html)).
+Notice what happens when h is very small. It is due to the fact that real numbers are approximated in Python with the float type ([IEEE-754 double precision format](https://docs.python.org/3/tutorial/floatingpoint.html)).
