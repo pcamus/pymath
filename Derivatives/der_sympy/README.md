@@ -8,7 +8,8 @@ Part of the code is dedicated to abetter presentaton of the formulas and are not
 
 The core of the code is:
 
-**`x = sp.Symbol('x')`** resrve a symbol named 'x' with no constraints
+**`x = sp.Symbol('x')`** reserve a symbol named 'x' with no constraints.
 
-expr=sp.sin(x**4 + 2)/4
-result=sp.diff(expr,x)
+**`expr=sp.sin(x**4 + 2)/4`** construct the expression to derivate.
+
+**`result=sp.diff(expr,x)`** compute the symbolic derivative.
