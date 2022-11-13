@@ -14,3 +14,4 @@ If we calculate the derivative of a function f(x) at a point x (i.e. any point),
 
 - [Finite difference error](err_der_geo).
 - [Symbolic approach](der_sympy).
+- [Different ways for calculating derivatives](der_lim)
