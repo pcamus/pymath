@@ -17,3 +17,7 @@ You will use Python to help your learning of mathematics during this first-year 
 ### Computing derivatives.
 
 - [Numerical & symbolic approach](Derivatives).
+
+### Complex numbers.
+
+- [Numerical & symbolic approach](Complex_numbers).
