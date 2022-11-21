@@ -4,7 +4,9 @@ Taylor series give approximation of functions with a polynomial equation, around
 
 See [here](https://en.wikipedia.org/wiki/Taylor_series) for a description Taylor series.
 
-We can use these polynomial to compute function with only the 4 elementary operations. Bu the accuracy with few terms is not very good.
+We can use these polynomial to compute function with only the 4 elementary operations. But the accuracy with few terms is not very good.
+
+See the following two examples: [taylor_sin.py](taylor_sin.py) and [taylor_sqrt.py](taylor_sqrt.py) 
 
 Another, mor powerful, algorithms exist, for instance the cordic algoritm.
 
