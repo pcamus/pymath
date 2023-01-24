@@ -6,7 +6,7 @@ The integral of the function can be described as the area under the function bet
 
 ![](integral.jpg)
 
-In this diagram we see that the area is the sum of the rectangles when their widths approaches 0. 
+In this diagram, we see that the area is the sum of the rectangles when their widths approaches 0. 
 
 The integral exists if the limit exists.
 
