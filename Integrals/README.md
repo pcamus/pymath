@@ -2,7 +2,7 @@
 
 ### Numerical approach.
 
-The integral of the function can be described as the area under a function between 2 abscissas.
+The integral of the function can be described as the area under the function between 2 abscissas.
 
 ![](integral.jpg)
 
