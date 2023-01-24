@@ -14,4 +14,4 @@ Python code for a parabola:  [num_int_para.py](num_int_para.py)
 
 ### Antiderivatives and fundamental theorem.
 
-The antiderivative of f(x) is the function F(x) such as
+The antiderivative of f(x) is the function F(x) such as $\displaystyle\left(\frac{dF(x)}{dx}\right)=fx$
