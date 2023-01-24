@@ -21,3 +21,5 @@ See this example: [sym_int_para.py](sym_int_para.py)
 The antiderivative of f(x) is the function F(x) such as $\displaystyle\left(\frac{dF(x)}{dx}\right)=f(x)$
 
 The fundamental theorem of calculus states that the integral of a function between  a and b is equal to the varaition of the antiderivatives between a and b (= F(b)-F(a))
+
+Symbolic computation of antiderivative : [antder_sympy.py](antder_sympy.py)
