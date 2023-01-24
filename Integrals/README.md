@@ -12,6 +12,11 @@ The integral exists if the limit exists.
 
 Python code for a parabola:  [num_int_para.py](num_int_para.py)
 
+### Integrals: symbolic approach.
+
+
 ### Antiderivatives and fundamental theorem.
 
-The antiderivative of f(x) is the function F(x) such as $\displaystyle\left(\frac{dF(x)}{dx}\right)=fx$
+The antiderivative of f(x) is the function F(x) such as $\displaystyle\left(\frac{dF(x)}{dx}\right)=f(x)$
+
+The fundamental theorem of calculus states that the integral of a function between  a and b is equal to the varaition of the antiderivatives between a and b (F(b)-F(a))
