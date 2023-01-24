@@ -21,3 +21,7 @@ You will use Python to help your learning of mathematics during this first-year 
 ### Complex numbers.
 
 - [Numerical & symbolic approach](Complex_numbers).
+
+### Computing integrals.
+
+- [Numerical & symbolic approach](Integrals).
