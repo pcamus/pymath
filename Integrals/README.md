@@ -1,6 +1,6 @@
 ## Integrals and antiderivatives.
 
-### Numerical approach.
+### Integrals: numerical approach.
 
 The integral of the function can be described as the area under the function between 2 abscissas.
 
@@ -11,3 +11,7 @@ In this diagram we see that the area is the sum of the rectangles when their wid
 The integral exists if the limit exists.
 
 Python code for a parabola:  [num_int_para.py](num_int_para.py)
+
+### Antiderivatives and fundamental theorem.
+
+The antiderivative of f(x) is the function F(x) such as
