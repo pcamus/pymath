@@ -14,6 +14,7 @@ Python code for a parabola:  [num_int_para.py](num_int_para.py)
 
 ### Integrals: symbolic approach.
 
+See this example: [sym_int_para.py](sym_int_para.py)
 
 ### Antiderivatives and fundamental theorem.
 
