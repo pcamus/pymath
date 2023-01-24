@@ -1,6 +1,6 @@
 ## Integrals and antiderivatives.
 
-###Numerical approach.
+### Numerical approach.
 
 The integral of the function can be described as the area under a function between 2 abscissas.
 
