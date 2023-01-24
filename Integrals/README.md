@@ -2,7 +2,7 @@
 
 The integral of the function can be described as the area under a function between 2 abscissas.
 
-![](integral)
+![](integral.jpg)
 
 In this diagram we see that the area is the sum of the rectangles when their width approaches 0. 
 
