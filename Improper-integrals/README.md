@@ -21,6 +21,6 @@ Examples:
 - Normal distribution example (plot and area under the curve): [gauss.py](gauss.py)
 - Two examples of type 2 integrals: 
   - [int_imp_type2a.py](int_imp_type2a.py) (not converging)
-  - [int_imp_type2a.py](int_imp_type2a.py) (converging)
+  - [int_imp_type2b.py](int_imp_type2b.py) (converging)
 
 Note: scipy is a usefull module dedicated to scientific computing in Python (see: [scipy.org](https://scipy.org/))
