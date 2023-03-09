@@ -17,6 +17,7 @@ By the end of this tutorial, you will have a good understanding of what constitu
 Examples:
 
 - Computing total power radiated by a body: [int_imp_sympy_ex1.py](int_imp_sympy_ex1.py)
-- Computing 1/x**n with a sum of rectangles and with the scipy module [int_imp_1divxn.py](int_imp_1divxn.py)
+- Computing 1/x**n with a sum of rectangles and with the scipy module: [int_imp_1divxn.py](int_imp_1divxn.py)
+- Normal distribution example (plot and area under the curve): [gauss.py](gauss.py)
 
 Note: scipy is a usefull module dedicated to scientific computing in Python (see: [scipy.org](https://scipy.org/))
