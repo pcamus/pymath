@@ -19,4 +19,4 @@ Examples:
 - Computing total power radiated by a body: [int_imp_sympy_ex1.py](int_imp_sympy_ex1.py)
 - Computing 1/x**n with a sum of rectangles and with the scipy module [int_imp_1divxn.py](int_imp_1divxn.py)
 
-Note: scipy is a usefull module dedicated to scientific computing in Python (see: [scipy.org](https://scipy.org/)
+Note: scipy is a usefull module dedicated to scientific computing in Python (see: [scipy.org](https://scipy.org/))
