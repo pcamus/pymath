@@ -12,4 +12,4 @@ Moreover, we will explore how to use various SymPy integration functions to hand
 
 By the end of this tutorial, you will have a good understanding of what constitutes an improper integral and how to use SymPy to solve them symbolically. You will also be able to apply these techniques to solve a wide range of mathematical problems involving improper integrals.
 
-This introduction was mad by ChatGPT
+* This introduction was mad by ChatGPT *
