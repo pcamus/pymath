@@ -12,12 +12,15 @@ Moreover, we will explore how to use various SymPy integration functions to hand
 
 By the end of this tutorial, you will have a good understanding of what constitutes an improper integral and how to use SymPy to solve them symbolically. You will also be able to apply these techniques to solve a wide range of mathematical problems involving improper integrals.
 
-*This introduction was made by ChatGPT*
+*This introduction was made by ChatGPT* :-)
 
 Examples:
 
 - Computing total power radiated by a body: [int_imp_sympy_ex1.py](int_imp_sympy_ex1.py)
 - Computing 1/x**n with a sum of rectangles and with the scipy module: [int_imp_1divxn.py](int_imp_1divxn.py)
 - Normal distribution example (plot and area under the curve): [gauss.py](gauss.py)
+- Two examples of type 2 integrals: 
+  - [int_imp_type2a.py](int_imp_type2a.py) (not converging)
+  - [int_imp_type2a.py](int_imp_type2a.py) (converging)
 
 Note: scipy is a usefull module dedicated to scientific computing in Python (see: [scipy.org](https://scipy.org/))
