@@ -10,7 +10,6 @@ import numpy as np
 
 def my_function(x,n):
     return (1/x**n)
-#    return (np.exp(-x)) 
 
 n=2.0
 lower_bound=1.0
